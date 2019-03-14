@@ -3,4 +3,4 @@ server:
 
 spring:
   application:
-    name: demo-consumer-client
+    name: demo-provider-client
