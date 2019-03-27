@@ -1,2 +1,4 @@
-message:
-    content: Consumer,Hello!
+business: 
+  consumer: 
+    demo: 
+      title: Consumer,Hello!
