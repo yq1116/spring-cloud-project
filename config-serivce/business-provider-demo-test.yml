@@ -1,2 +1,4 @@
-message:
-    content: Provider,Hello!
+business: 
+  provider: 
+    demo: 
+      title: Provider1,Hello!
